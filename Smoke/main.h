@@ -1,0 +1,11 @@
+#include <SDL2/SDL.h>
+#include <graphics.h>
+#include <draw.h>
+#include <rules.h>
+#include <utils.h>
+#include <stdio.h>
+#include <vector>
+#include <time.h>
+#include <stdlib.h> 
+#include <thread>
+#include <mutex>
